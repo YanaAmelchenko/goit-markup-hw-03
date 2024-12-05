@@ -106,19 +106,36 @@ a {
   color: #434455;
 }
 
+/* section 1 */
+
 .main-page {
+  padding: 188px 0;
   background-color: #2e2f42;
 }
 
+.first-container {
+  padding: 0 15px;
+  margin: 0 auto;
+  align-items: center;
+}
+
 .main-text {
+  max-width: 496px;
+  margin: 0 auto;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #ffffff;
 }
 
 .main-page-button {
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  margin: 0 auto;
+  margin-top: 48px;
+  border: none;
+  border-radius: 4px;
   background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
