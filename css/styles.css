@@ -210,6 +210,10 @@ a {
 
 /* section 3 */
 
+.img {
+  display: block;
+}
+
 .page-team {
   padding: 120px 0;
   background-color: #f4f4fd;
